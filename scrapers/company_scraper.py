@@ -18,6 +18,7 @@ class CompanyScraper(BaseScraper):
 
         # Major companies with EE/hardware internships
         self.companies = {
+            # Large Semiconductor Companies
             "Intel": {
                 "url": "https://jobs.intel.com/en/search-jobs",
                 "search_params": {"k": "intern hardware", "locationsearch": "United States"}
@@ -70,6 +71,8 @@ class CompanyScraper(BaseScraper):
                 "url": "https://careers.amd.com/careers-home/jobs",
                 "search_params": {"keywords": "intern fpga"}
             },
+
+            # EDA & Design Tools
             "Synopsys": {
                 "url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359",
                 "search_params": {"keywords": "intern"}
@@ -77,6 +80,48 @@ class CompanyScraper(BaseScraper):
             "Cadence": {
                 "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
                 "search_params": {"q": "intern"}
+            },
+
+            # Smaller/Emerging Semiconductor Companies
+            "Cirrus Logic": {
+                "url": "https://careers.cirrus.com/search-jobs",
+                "search_params": {"k": "intern"}
+            },
+            "SiFive": {
+                "url": "https://boards.greenhouse.io/sifive",
+                "search_params": {}
+            },
+            "Cerebras": {
+                "url": "https://cerebras.net/careers/",
+                "search_params": {}
+            },
+            "Groq": {
+                "url": "https://groq.com/careers/",
+                "search_params": {}
+            },
+            "Astera Labs": {
+                "url": "https://jobs.lever.co/astera-labs",
+                "search_params": {}
+            },
+            "Rebellions": {
+                "url": "https://rebellions.ai/en/career/",
+                "search_params": {}
+            },
+            "Tenstorrent": {
+                "url": "https://tenstorrent.com/careers/",
+                "search_params": {}
+            },
+            "Rivos": {
+                "url": "https://boards.greenhouse.io/rivos",
+                "search_params": {}
+            },
+            "SambaNova": {
+                "url": "https://sambanova.ai/careers/",
+                "search_params": {}
+            },
+            "Alphawave": {
+                "url": "https://awaveip.com/careers/",
+                "search_params": {}
             }
         }
 
