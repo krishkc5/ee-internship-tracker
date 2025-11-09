@@ -45,11 +45,23 @@ LOCATIONS = [
 
 # Companies to prioritize (optional - can add specific companies you're interested in)
 PRIORITY_COMPANIES = [
-    "Intel", "AMD", "NVIDIA", "Qualcomm", "Broadcom",
-    "Texas Instruments", "Analog Devices", "Microchip",
+    # Semiconductor Companies
+    "Intel", "AMD", "NVIDIA", "Qualcomm", "Broadcom", "Micron",
+    "Texas Instruments", "Analog Devices", "Microchip", "NXP",
+    "Applied Materials", "TSMC", "Samsung Semiconductor", "Marvell",
+    "Synopsys", "Cadence", "Xilinx", "KLA", "GlobalFoundries",
+
+    # Tech Giants
     "Apple", "Google", "Microsoft", "Amazon", "Meta",
-    "Tesla", "SpaceX", "Northrop Grumman", "Lockheed Martin",
-    "Raytheon", "Boeing", "NASA", "JPL"
+    "Tesla", "IBM", "Oracle", "Cisco", "HP",
+
+    # Aerospace & Defense
+    "SpaceX", "Blue Origin", "Northrop Grumman", "Lockheed Martin",
+    "Raytheon", "Boeing", "NASA", "JPL", "Honeywell", "Collins Aerospace",
+
+    # Hardware & Embedded
+    "Bosch", "Continental", "Delphi", "Aptiv", "Garmin",
+    "Keysight", "Teradyne", "National Instruments"
 ]
 
 # Scraping settings

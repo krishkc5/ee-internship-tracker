@@ -5,7 +5,10 @@ Main scraper script that coordinates all job scrapers
 import json
 import os
 from datetime import datetime
-from scrapers import IndeedScraper, LinkedInScraper
+from scrapers import (
+    IndeedScraper, LinkedInScraper, GlassdoorScraper,
+    SimplifyScraper, HandshakeScraper, BuiltInScraper, CompanyScraper
+)
 from config import JOB_KEYWORDS, ROLE_KEYWORDS, INTERNSHIP_KEYWORDS, MAX_JOBS_PER_SOURCE
 
 
@@ -20,6 +23,11 @@ def main():
     scrapers = [
         IndeedScraper(),
         LinkedInScraper(),
+        GlassdoorScraper(),
+        SimplifyScraper(),
+        HandshakeScraper(),
+        BuiltInScraper(),
+        CompanyScraper(),
     ]
 
     all_jobs = []
