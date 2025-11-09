@@ -37,7 +37,7 @@ jobs:
 
       - name: Run job scraper
         run: |
-          python scraper_main.py
+          python scraper_quick.py
 
       - name: Commit and push if changes
         run: |
