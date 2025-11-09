@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.env
+.vscode/
+.DS_Store
+*.log
+chromedriver
+geckodriver

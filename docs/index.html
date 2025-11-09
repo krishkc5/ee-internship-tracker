@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EE Internship Tracker - Summer 2026</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Electrical Engineering Internship Tracker</h1>
+            <p class="subtitle">Summer 2026 Opportunities</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search jobs by title, company, or location...">
+            </div>
+
+            <div class="filter-controls">
+                <div class="filter-group">
+                    <label>
+                        <input type="checkbox" id="filterNotApplied" checked>
+                        Not Applied
+                    </label>
+                    <label>
+                        <input type="checkbox" id="filterApplied">
+                        Applied
+                    </label>
+                    <label>
+                        <input type="checkbox" id="filterInterviewing">
+                        Interviewing
+                    </label>
+                </div>
+
+                <div class="filter-group">
+                    <label>Source:</label>
+                    <select id="sourceFilter">
+                        <option value="all">All Sources</option>
+                        <option value="Indeed">Indeed</option>
+                        <option value="LinkedIn">LinkedIn</option>
+                    </select>
+                </div>
+
+                <div class="stats">
+                    <span id="totalJobs">Total: 0</span> |
+                    <span id="appliedCount">Applied: 0</span> |
+                    <span id="newJobs">New: 0</span>
+                </div>
+            </div>
+
+            <button id="exportBtn" class="export-btn">Export Application Data</button>
+        </div>
+
+        <div id="jobsList" class="jobs-list">
+            <div class="loading">Loading jobs...</div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Last updated: <span id="lastUpdated">Loading...</span></p>
+            <p>Built by Krishna | Data auto-updates every 6 hours</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
