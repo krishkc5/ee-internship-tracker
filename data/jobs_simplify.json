@@ -1,5 +1,49 @@
 [
   {
+    "id": "48e8b2c5d670cf80d9d757528276d0e5",
+    "title": "Hardware Development Co-Op",
+    "company": "Nokia",
+    "location": "Berkeley Heights, NJ",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20045",
+    "description": "",
+    "posted_date": "2026-01-01",
+    "scraped_date": "2026-01-01 02:23:28",
+    "source": "Simplify"
+  },
+  {
+    "id": "31f777fa71380f1c9e6abf6faf8e2fe7",
+    "title": "AI Digital Technology Intern",
+    "company": "GE Aerospace",
+    "location": "Sharonville, OH",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/AI-Digital-Technology-Intern_R5009391",
+    "description": "",
+    "posted_date": "2026-01-01",
+    "scraped_date": "2026-01-01 02:23:28",
+    "source": "Simplify"
+  },
+  {
+    "id": "808128b40cc1ef6c498a6034c599e054",
+    "title": "Servo Firmware Intern",
+    "company": "Western Digital",
+    "location": "San Jose, CA",
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000058636185",
+    "description": "",
+    "posted_date": "2026-01-01",
+    "scraped_date": "2026-01-01 02:23:28",
+    "source": "Simplify"
+  },
+  {
+    "id": "c3b93addc5b2eca3876deadc4644ffbc",
+    "title": "FPGA IP Software Development Engineer-Intern",
+    "company": "Altera Corporation",
+    "location": "California",
+    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/California-United-States-Remote/FPGA-IP-Software-Development-Engineer-Intern_R00764",
+    "description": "",
+    "posted_date": "2026-01-01",
+    "scraped_date": "2026-01-01 02:23:28",
+    "source": "Simplify"
+  },
+  {
     "id": "b1d0818d9c1d88f7190efead36f12ae0",
     "title": "Embedded Software Engineer Co-op/Intern",
     "company": "Lumentum",
