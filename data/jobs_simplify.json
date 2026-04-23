@@ -1,5 +1,60 @@
 [
   {
+    "id": "3b46cd92197279f2418c34943c63e155",
+    "title": "Embedded Software Engineering Intern",
+    "company": "Verkada",
+    "location": "San Mateo, CA",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4840383007",
+    "description": "",
+    "posted_date": "2026-04-23",
+    "scraped_date": "2026-04-23 03:26:13",
+    "source": "Simplify"
+  },
+  {
+    "id": "c09a3281ff0f977a88aa2cfa45976953",
+    "title": "Hardware Engineer I \u2013 Intern",
+    "company": "Cisco",
+    "location": "San Jose, CA",
+    "url": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-I-Intern-United-States/1447911",
+    "description": "",
+    "posted_date": "2026-04-23",
+    "scraped_date": "2026-04-23 03:26:13",
+    "source": "Simplify"
+  },
+  {
+    "id": "9814eff79362185af2a2f1f881976138",
+    "title": "Electrical Hardware Engineering Intern",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Houston, TX",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Electrical-Hardware-Engineering-Intern_1192939",
+    "description": "",
+    "posted_date": "2026-04-23",
+    "scraped_date": "2026-04-23 03:26:13",
+    "source": "Simplify"
+  },
+  {
+    "id": "4af0ea603a36a2b7532e01381025b1fd",
+    "title": "Hardware Engineering Intern",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Roseville, CA",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Intern_1193043",
+    "description": "",
+    "posted_date": "2026-04-23",
+    "scraped_date": "2026-04-23 03:26:13",
+    "source": "Simplify"
+  },
+  {
+    "id": "969a3a7c8286dcb0c0d57e28518e3ac1",
+    "title": "Embedded Software Intern",
+    "company": "Analog Devices",
+    "location": "Boston, MA",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Embedded-Software-Intern_R255237",
+    "description": "",
+    "posted_date": "2026-04-23",
+    "scraped_date": "2026-04-23 03:26:13",
+    "source": "Simplify"
+  },
+  {
     "id": "77e5225f8cf9f979e44f26a3153d6977",
     "title": "Embedded Software Developer Co-op",
     "company": "L3Harris Technologies",
