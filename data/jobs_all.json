@@ -1,5 +1,38 @@
 [
   {
+    "id": "da3bb7e24586b2cfdfb6d60b319dd848",
+    "title": "Hardware Development Co-Op",
+    "company": "Nokia",
+    "location": "Berkeley Heights, NJ",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24086",
+    "description": "",
+    "posted_date": "2026-04-30",
+    "scraped_date": "2026-04-30 14:10:43",
+    "source": "Simplify"
+  },
+  {
+    "id": "a85fe34b780dbeb6aa0c1f3945a3f359",
+    "title": "Internship - Embedded Software Engineer",
+    "company": "Motorola",
+    "location": "Hoffman Estates, IL",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2026-Summer-Internship---Embedded-Software-Engineer_R57290",
+    "description": "",
+    "posted_date": "2026-04-30",
+    "scraped_date": "2026-04-30 14:10:43",
+    "source": "Simplify"
+  },
+  {
+    "id": "af71e06cea35d88ad9072dfad5a5e582",
+    "title": "Embedded Developer Intern - Iox Core",
+    "company": "Geotab",
+    "location": "Oakville, ON, Canada, Kitchener, ON, Canada",
+    "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4805406008",
+    "description": "",
+    "posted_date": "2026-04-30",
+    "scraped_date": "2026-04-30 14:10:43",
+    "source": "Simplify"
+  },
+  {
     "id": "fd114e52846f5d52df55b71e52ecb369",
     "title": "Digital Technology Intern",
     "company": "Oshkosh",
