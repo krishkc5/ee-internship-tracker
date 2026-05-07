@@ -1,5 +1,38 @@
 [
   {
+    "id": "d2bcf409425ecbbe1bd08c95678d388b",
+    "title": "Digital Intern",
+    "company": "American Bureau of Shipping",
+    "location": "Spring, TX",
+    "url": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/3493",
+    "description": "",
+    "posted_date": "2026-05-07",
+    "scraped_date": "2026-05-07 19:47:49",
+    "source": "Simplify"
+  },
+  {
+    "id": "ebcacc74fa66e05798cd450e4c2f6271",
+    "title": "Firmware Test Co-Op",
+    "company": "Emerson Electric",
+    "location": "Iowa",
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025754",
+    "description": "",
+    "posted_date": "2026-05-07",
+    "scraped_date": "2026-05-07 19:47:49",
+    "source": "Simplify"
+  },
+  {
+    "id": "890917a42b3c4c3de9a4f76fe3c1d620",
+    "title": "2025 Fall Embedded Firmware Co-Op",
+    "company": "Applied Materials",
+    "location": "Rochester, NY",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RochesterNY/XMLNAME-2025-Fall-Embedded-Firmware-Co-Op--Rochester--NY-_R2515320",
+    "description": "",
+    "posted_date": "2026-05-07",
+    "scraped_date": "2026-05-07 19:47:49",
+    "source": "Simplify"
+  },
+  {
     "id": "dfbb97cde7aecc5efb5780bf5b933a2c",
     "title": "Dell ISG Hardware Engineering Graduate Intern",
     "company": "Dell Technologies",
