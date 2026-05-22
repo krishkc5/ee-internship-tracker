@@ -1,5 +1,38 @@
 [
   {
+    "id": "1ca35e62dab39b76cd89ff84746acecc",
+    "title": "Embedded Firmware Intern/Co-op - Multiple Teams",
+    "company": "Applied Materials",
+    "location": "Rochester, NY",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RochesterNY/XMLNAME-2026-Spring-Embedded-Firmware-Co-Op---Bachelor-s--Rochester--NY-_R2517253",
+    "description": "",
+    "posted_date": "2026-05-22",
+    "scraped_date": "2026-05-22 04:10:44",
+    "source": "Simplify"
+  },
+  {
+    "id": "7efa4b86ab9207b7fd450fc9489927e8",
+    "title": "Embedded Software Engineering Intern - Research & Development Engineering",
+    "company": "Eaton Corporation",
+    "location": "Racine, WI",
+    "url": "https://eaton.eightfold.ai/careers/job/687232791122",
+    "description": "",
+    "posted_date": "2026-05-22",
+    "scraped_date": "2026-05-22 04:10:44",
+    "source": "Simplify"
+  },
+  {
+    "id": "171a1b59239cd122e0b3a27e058db81d",
+    "title": "Intern - Engineer - Embedded",
+    "company": "Micron Technology",
+    "location": "Manassas, VA",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Intern---ENG---DEG-EMBEDDED---PE_JR83301",
+    "description": "",
+    "posted_date": "2026-05-22",
+    "scraped_date": "2026-05-22 04:10:44",
+    "source": "Simplify"
+  },
+  {
     "id": "93b1672a36fada1d2989583f6dbc8d96",
     "title": "Intern - Firmware Engineering - Multiple Teams",
     "company": "Rockwell Automation",
