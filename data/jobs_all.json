@@ -1,5 +1,27 @@
 [
   {
+    "id": "23bcfa9ea12c6f2af393e57be8925477",
+    "title": "Hardware Engineer 2 Co-op",
+    "company": "Cisco",
+    "location": "San Jose, CA",
+    "url": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-II-Co-op-United-States/1448142",
+    "description": "",
+    "posted_date": "2026-05-24",
+    "scraped_date": "2026-05-24 04:09:34",
+    "source": "Simplify"
+  },
+  {
+    "id": "b0040419e76c86b1fe093d1339f9bb59",
+    "title": "Firmware Engineer Intern",
+    "company": "Keysight Technologies",
+    "location": "Santa Rosa, CA",
+    "url": "https://jobs.keysight.com/jobs/49742?lang=en-us&icims=1",
+    "description": "",
+    "posted_date": "2026-05-24",
+    "scraped_date": "2026-05-24 04:09:34",
+    "source": "Simplify"
+  },
+  {
     "id": "95241faf3518f4ccb8669975bc88ae0b",
     "title": "Intern Digital RTL",
     "company": "Rambus",
