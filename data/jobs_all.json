@@ -1,5 +1,38 @@
 [
   {
+    "id": "6864f27a3e49641019a4ea6cd1b68083",
+    "title": "Software Engineering Intern - Digital Manufacturing Automation",
+    "company": "Rivian",
+    "location": "Orange, CA",
+    "url": "https://careers.rivian.com/jobs/26981?lang=en-us&icims=1",
+    "description": "",
+    "posted_date": "2026-06-15",
+    "scraped_date": "2026-06-15 12:28:11",
+    "source": "Simplify"
+  },
+  {
+    "id": "25b016ee5baab5d8dd727557d47e924a",
+    "title": "Hardware Test Engineering Fall Co-op - Software - June 2026",
+    "company": "Shield AI",
+    "location": "Dallas, TX",
+    "url": "https://jobs.lever.co/shieldai/1c1a805c-7e26-4442-9698-a55a57bcd4e0/apply",
+    "description": "",
+    "posted_date": "2026-06-15",
+    "scraped_date": "2026-06-15 12:28:11",
+    "source": "Simplify"
+  },
+  {
+    "id": "b2440b24192c8c92cea29e838a4d371e",
+    "title": "Hardware Test Engineering Fall Co-op - Mechanical - June 2026",
+    "company": "Shield AI",
+    "location": "Dallas, TX",
+    "url": "https://jobs.lever.co/shieldai/b3e9f8bb-42dc-4daa-80ae-c5cefd9855c7/apply",
+    "description": "",
+    "posted_date": "2026-06-15",
+    "scraped_date": "2026-06-15 12:28:11",
+    "source": "Simplify"
+  },
+  {
     "id": "76dc99d981ad298a59a93b05c51a8783",
     "title": "Intern FPGA Compiler Software Engineer",
     "company": "Altera Corporation",
