@@ -1,5 +1,71 @@
 [
   {
+    "id": "60e6bcdebe7f99a611c3b95ac73dfd45",
+    "title": "Firmware Engineer Intern",
+    "company": "Rambus",
+    "location": "Vancouver, BC, Canada",
+    "url": "https://careers-rambus.icims.com/jobs/22416/job?mobile=true&needsRedirect=false",
+    "description": "",
+    "posted_date": "2026-07-02",
+    "scraped_date": "2026-07-02 04:02:23",
+    "source": "Simplify"
+  },
+  {
+    "id": "bc9f16d9e4f89a2c441b6c7ffab301cd",
+    "title": "Embedded Software Engineering Intern \u2013 2026 Summer Intern",
+    "company": "Shield AI",
+    "location": "Dallas, TX",
+    "url": "https://jobs.lever.co/shieldai/84ed6c2d-a904-4459-9ddb-254561df2439/apply",
+    "description": "",
+    "posted_date": "2026-07-02",
+    "scraped_date": "2026-07-02 04:02:23",
+    "source": "Simplify"
+  },
+  {
+    "id": "57d8fcc242eb9c407c6a4945bc6911a6",
+    "title": "Hardware Engineering Intern",
+    "company": "Fortive",
+    "location": "Everett, WA",
+    "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7840",
+    "description": "",
+    "posted_date": "2026-07-02",
+    "scraped_date": "2026-07-02 04:02:23",
+    "source": "Simplify"
+  },
+  {
+    "id": "01d7235e79d2ca34452355b7cce4599c",
+    "title": "Embedded Firmware Engineering Intern - Embedded Systems - HVAC",
+    "company": "Johnson Controls",
+    "location": "Milwaukee, WI",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Embedded-Engineering-Intern_WD30252552",
+    "description": "",
+    "posted_date": "2026-07-02",
+    "scraped_date": "2026-07-02 04:02:23",
+    "source": "Simplify"
+  },
+  {
+    "id": "29925b39db1fce4157ef2eec1c12e76b",
+    "title": "Product Development Quality Innovation Intern - Product Sustainability, Quality and Logistics - AI-powered Digital Tools",
+    "company": "Zoetis",
+    "location": "Kalamazoo, MI",
+    "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Product-Development-Quality-Innovation-Intern_JR00019354-1",
+    "description": "",
+    "posted_date": "2026-07-02",
+    "scraped_date": "2026-07-02 04:02:23",
+    "source": "Simplify"
+  },
+  {
+    "id": "0f217f1099b690e181eb18aff55ea6ca",
+    "title": "Analog/Mixed-Signal IC & AI Systems R&D Intern - Master's Degree",
+    "company": "Marvell",
+    "location": "Irvine, CA",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Irvine-CA/Analog-Mixed-Signal-IC---AI-Systems-R-D-Intern---Master-s-Degree_2502428",
+    "description": "",
+    "posted_date": "2026-07-02",
+    "scraped_date": "2026-07-02 04:02:23",
+    "source": "Simplify"
+  },
+  {
     "id": "90c063194aa2b2ca1ee7b8137cde5b62",
     "title": "2026 Summer Intern - MS/PhD - ML Compute - Hardware Engineer",
     "company": "Waymo",
