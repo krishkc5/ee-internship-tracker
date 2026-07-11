@@ -1,5 +1,93 @@
 [
   {
+    "id": "e1ab5a2b96936996a433a6701c75b520",
+    "title": "Software Engineer Intern - Embedded Platforms",
+    "company": "Rivian",
+    "location": "Palo Alto, CA, Irvine, CA, Vancouver, BC, Canada",
+    "url": "https://careers.rivian.com/jobs/27487?lang=en-us&icims=1",
+    "description": "",
+    "posted_date": "2026-07-11",
+    "scraped_date": "2026-07-11 03:17:37",
+    "source": "Simplify"
+  },
+  {
+    "id": "038babe866bd21e5f11fcd4e36d01891",
+    "title": "UIUC Research Park Intern - Embedded Software",
+    "company": "Rivian",
+    "location": "Urbana, IL",
+    "url": "https://careers.rivian.com/jobs/27626?lang=en-us&icims=1",
+    "description": "",
+    "posted_date": "2026-07-11",
+    "scraped_date": "2026-07-11 03:17:37",
+    "source": "Simplify"
+  },
+  {
+    "id": "25a03184583ae259e05fbccdc895950e",
+    "title": "Hardware Test and Reliability Intern",
+    "company": "Skydio",
+    "location": "San Mateo, CA",
+    "url": "https://www.skydio.com/jobs/7506850003?gh_jid=7506850003",
+    "description": "",
+    "posted_date": "2026-07-11",
+    "scraped_date": "2026-07-11 03:17:37",
+    "source": "Simplify"
+  },
+  {
+    "id": "70c81451930c3979c050b415e4705978",
+    "title": "Embedded Software Engineer Intern",
+    "company": "Northrop Grumman",
+    "location": "Apopka, FL",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2026-Embedded-Software-Engineer-Intern---Apopka-FL_R10214476-1",
+    "description": "",
+    "posted_date": "2026-07-11",
+    "scraped_date": "2026-07-11 03:17:37",
+    "source": "Simplify"
+  },
+  {
+    "id": "69cf2f2742d4dec39ec98d4275d6e178",
+    "title": "2026 Summer Semis & Tech Hardware Intern",
+    "company": "Marshall Wace",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/mwnaintern/jobs/8206708002",
+    "description": "",
+    "posted_date": "2026-07-11",
+    "scraped_date": "2026-07-11 03:17:37",
+    "source": "Simplify"
+  },
+  {
+    "id": "623b14d8b494b99c62ac741b4a77623b",
+    "title": "Hardware Security Design Intern",
+    "company": "Analog Devices",
+    "location": "Burlington, MA",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Hardware-Security-Design-Intern_R257898",
+    "description": "",
+    "posted_date": "2026-07-11",
+    "scraped_date": "2026-07-11 03:17:37",
+    "source": "Simplify"
+  },
+  {
+    "id": "cc7b46f378ddb86905c697617edf6954",
+    "title": "Embedded Software Engineering Intern",
+    "company": "REGENT",
+    "location": "North Kingstown, RI",
+    "url": "https://jobs.ashbyhq.com/regent/ef64cbcf-5184-43a1-a048-842f89f6cd0b",
+    "description": "",
+    "posted_date": "2026-07-11",
+    "scraped_date": "2026-07-11 03:17:37",
+    "source": "Simplify"
+  },
+  {
+    "id": "8964fb709bb39292c67ceba72e4e9ee8",
+    "title": "Software Engineering Intern, Firmware - Summer 2026",
+    "company": "ALSO",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.ashbyhq.com/ridealso/3451e5c5-342c-4b7c-855c-df8e3ac94065",
+    "description": "",
+    "posted_date": "2026-07-11",
+    "scraped_date": "2026-07-11 03:17:37",
+    "source": "Simplify"
+  },
+  {
     "id": "f65fc753578f0416d97138d9bda8a1c4",
     "title": "VLSI CAD Timing Intern - Summer 2026",
     "company": "NVIDIA",
