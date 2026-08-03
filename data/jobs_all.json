@@ -1,5 +1,60 @@
 [
   {
+    "id": "923c3034507a9257ddf42079e56703e2",
+    "title": "Embedded Software Engineer Intern",
+    "company": "Nokia",
+    "location": "San Jose, CA",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26678",
+    "description": "",
+    "posted_date": "2026-08-03",
+    "scraped_date": "2026-08-03 03:31:04",
+    "source": "Simplify"
+  },
+  {
+    "id": "923487c908bdf692d103a854155d7e3d",
+    "title": "Digital Design Intern",
+    "company": "Analog Devices",
+    "location": "Edinburgh, UK",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Digital-Design-Intern_R258559",
+    "description": "",
+    "posted_date": "2026-08-03",
+    "scraped_date": "2026-08-03 03:31:04",
+    "source": "Simplify"
+  },
+  {
+    "id": "ce89abb70fee2748ca342ffd866c430a",
+    "title": "Intern - Product Technical Development - Digital Sciences Focus",
+    "company": "Genentech",
+    "location": "San Bruno, CA",
+    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Technical-Development---Digital-Sciences-Focus_202512-131184",
+    "description": "",
+    "posted_date": "2026-08-03",
+    "scraped_date": "2026-08-03 03:31:04",
+    "source": "Simplify"
+  },
+  {
+    "id": "71950592737c9144973eac0dc667d0bf",
+    "title": "Hardware Development Intern",
+    "company": "Nokia",
+    "location": "Sunnyvale, CA",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27288",
+    "description": "",
+    "posted_date": "2026-08-03",
+    "scraped_date": "2026-08-03 03:31:04",
+    "source": "Simplify"
+  },
+  {
+    "id": "4971bbb506f2ca84cc28824cecb7c86b",
+    "title": "Hardware Development Intern",
+    "company": "Nokia",
+    "location": "Westford, MA",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28295",
+    "description": "",
+    "posted_date": "2026-08-03",
+    "scraped_date": "2026-08-03 03:31:04",
+    "source": "Simplify"
+  },
+  {
     "id": "37e0fa1e455d82a62c0cd9c319636f6d",
     "title": "Embedded Software Intern - Winter 2026",
     "company": "UntilLabs",
