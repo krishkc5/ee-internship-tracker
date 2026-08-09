@@ -1,5 +1,60 @@
 [
   {
+    "id": "6de1356747588352a1d5fd6b307f1412",
+    "title": "Hardware Test Intern",
+    "company": "Astranis",
+    "location": "SF",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4623589006",
+    "description": "",
+    "posted_date": "2026-08-09",
+    "scraped_date": "2026-08-09 02:06:33",
+    "source": "Simplify"
+  },
+  {
+    "id": "2c7aa0c915ffd87895be9ec1ea2f88ee",
+    "title": "Innovation and Digitalization Co-op",
+    "company": "Rolls Royce",
+    "location": "Spartanburg, SC",
+    "url": "https://jobs.bmwgroup.com/job/Spartanburg-Innovation-and-Digitalization-Co-op-(Summer-2026)-Sout/1276053401/?ats=successfactors",
+    "description": "",
+    "posted_date": "2026-08-09",
+    "scraped_date": "2026-08-09 02:06:33",
+    "source": "Simplify"
+  },
+  {
+    "id": "d50de1a4be726f0bf14cab9c2fce7c4f",
+    "title": "Embedded SW Engineer Co-op",
+    "company": "Fresenius Medical Care",
+    "location": "Andover, MA",
+    "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-SW-Engineer-Co-op_R0227453",
+    "description": "",
+    "posted_date": "2026-08-09",
+    "scraped_date": "2026-08-09 02:06:33",
+    "source": "Simplify"
+  },
+  {
+    "id": "3cfa8e914fa48c8b7124e5f866fb7e76",
+    "title": "DSP Firmware Engineering Co-op/Intern",
+    "company": "Nokia",
+    "location": "Ottawa, ON, Canada",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27851",
+    "description": "",
+    "posted_date": "2026-08-09",
+    "scraped_date": "2026-08-09 02:06:33",
+    "source": "Simplify"
+  },
+  {
+    "id": "58b401149e0719188c03053d4b0f8dd9",
+    "title": "Photonic Circuits Test Intern",
+    "company": "Nokia",
+    "location": "Sunnyvale, CA",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28496",
+    "description": "",
+    "posted_date": "2026-08-09",
+    "scraped_date": "2026-08-09 02:06:33",
+    "source": "Simplify"
+  },
+  {
     "id": "84013698f5d5daa1c7916b5095644a2d",
     "title": "Software Engineer Intern - Software Engineering - Firmware",
     "company": "Western Digital",
