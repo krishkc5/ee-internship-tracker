@@ -1,5 +1,60 @@
 [
   {
+    "id": "bdff4b4d56b425fa303ab937fda11bf3",
+    "title": "Intern Hardware Engineer",
+    "company": "Plexus",
+    "location": "Raleigh, NC",
+    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Hardware-Engineer--Spring-2027-_R035781",
+    "description": "",
+    "posted_date": "2026-09-07",
+    "scraped_date": "2026-09-07 03:58:11",
+    "source": "Simplify"
+  },
+  {
+    "id": "7cb3e5e2031ee9b556d8c9822e5b8af0",
+    "title": "Global Development & Innovation \u2013 Digital Capability Intern",
+    "company": "The Coca-Cola Company",
+    "location": "Atlanta, GA",
+    "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Global-Development---Innovation--Digital-Capability-Intern_R-133453",
+    "description": "",
+    "posted_date": "2026-09-07",
+    "scraped_date": "2026-09-07 03:58:11",
+    "source": "Simplify"
+  },
+  {
+    "id": "f621bdc8533f04a443e0c7074baed36e",
+    "title": "Embedded Android Engineer Intern/Co-op",
+    "company": "Motorola",
+    "location": "Hoffman Estates, IL",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Embedded-Android-Engineer-Co-Op_R60063-1",
+    "description": "",
+    "posted_date": "2026-09-07",
+    "scraped_date": "2026-09-07 03:58:11",
+    "source": "Simplify"
+  },
+  {
+    "id": "b62b0da65de3b261386d9b52d082add1",
+    "title": "Hardware Reverse Engineering Intern",
+    "company": "CACI",
+    "location": "Dulles, VA",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Sterling/Hardware-Reverse-Engineering-Intern---Summer-2026_321045",
+    "description": "",
+    "posted_date": "2026-09-07",
+    "scraped_date": "2026-09-07 03:58:11",
+    "source": "Simplify"
+  },
+  {
+    "id": "b23bbac5b40032c094ee91d9cb2beff0",
+    "title": "HPC Hardware Intern",
+    "company": "KLA Corporation",
+    "location": "Milpitas, CA",
+    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/HPC-Hardware-Intern_2533293-1",
+    "description": "",
+    "posted_date": "2026-09-07",
+    "scraped_date": "2026-09-07 03:58:11",
+    "source": "Simplify"
+  },
+  {
     "id": "252e83b49e15a73482acb9e5cd34bcf4",
     "title": "FPGA Intern Engineer",
     "company": "General Dynamics Mission Systems",
