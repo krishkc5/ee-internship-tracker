@@ -1,5 +1,93 @@
 [
   {
+    "id": "1205bcffb69a130f7bea10ac90032da9",
+    "title": "Research Intern - Robotic Hardware - Simulation and Data",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "url": "https://boards.greenhouse.io/appliedintuition/jobs/4661664005",
+    "description": "",
+    "posted_date": "2026-10-11",
+    "scraped_date": "2026-10-11 05:09:28",
+    "source": "Simplify"
+  },
+  {
+    "id": "3ebb6d77953b69e8daee7d4d23e56434",
+    "title": "Intern - Digital - Data Science",
+    "company": "PA Consulting",
+    "location": "Belfast, UK",
+    "url": "https://jobs.smartrecruiters.com/PAConsulting/744000109193825",
+    "description": "",
+    "posted_date": "2026-10-11",
+    "scraped_date": "2026-10-11 05:09:28",
+    "source": "Simplify"
+  },
+  {
+    "id": "d8e1367c68df07147c1ec02713780758",
+    "title": "Embedded Software Developer Co-op - Optical Circuit Switch",
+    "company": "Lumentum",
+    "location": "Ottawa, ON, Canada",
+    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_202668",
+    "description": "",
+    "posted_date": "2026-10-11",
+    "scraped_date": "2026-10-11 05:09:28",
+    "source": "Simplify"
+  },
+  {
+    "id": "ed1545131360c7c77216f1d02e8124ef",
+    "title": "Intern \u2013 Digital Product Configuration Management Engineer Intern - CO",
+    "company": "RTX",
+    "location": "Colorado Springs, CO",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-SCHRIEVER-AFB-CUST--720-Irwin-Ave--SCHRIEVER-AFB-External-Site/XMLNAME-2026-Intern---Digital-Product-Configuration-Management-Engineer-Intern---Onsite--CO-_01823718",
+    "description": "",
+    "posted_date": "2026-10-11",
+    "scraped_date": "2026-10-11 05:09:28",
+    "source": "Simplify"
+  },
+  {
+    "id": "729bf8465b7fd14c7906cf4ffe90b3b9",
+    "title": "GE Vernova Grid Solutions \u2013 Hardware Engineering Intern - Critical Infrastructure Communications",
+    "company": "GE Vernova",
+    "location": "Rochester, NY",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Fall-Winter-2026_R5032356-2",
+    "description": "",
+    "posted_date": "2026-10-11",
+    "scraped_date": "2026-10-11 05:09:28",
+    "source": "Simplify"
+  },
+  {
+    "id": "4223a770a94f31610c0f766908e32027",
+    "title": "GE Vernova Grid Solutions \u2013 Hardware Engineering Intern - Critical Infrastructure Communications",
+    "company": "GE Vernova",
+    "location": "Rochester, NY",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Fall-Winter-2026_R5032356",
+    "description": "",
+    "posted_date": "2026-10-11",
+    "scraped_date": "2026-10-11 05:09:28",
+    "source": "Simplify"
+  },
+  {
+    "id": "64580f4dd299e9ff15f206e2d1a1870f",
+    "title": "MECOP 2026 Spring/Summer Intern - Automation Systems & Digital Integration",
+    "company": "Genentech",
+    "location": "Hillsboro, OR",
+    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Hillsboro/MECOP-2026-Spring-Summer-Intern---Automation-Systems---Digital-Integration_202602-102840",
+    "description": "",
+    "posted_date": "2026-10-11",
+    "scraped_date": "2026-10-11 05:09:28",
+    "source": "Simplify"
+  },
+  {
+    "id": "1472099cb7455e0dd238e2b5004d77ef",
+    "title": "Hardware Engineering Intern - Lidar - MS or PhD",
+    "company": "Aurora Innovation",
+    "location": "Mountain View, CA",
+    "url": "https://aurora.tech/jobs/8340326002?gh_jid=8340326002",
+    "description": "",
+    "posted_date": "2026-10-11",
+    "scraped_date": "2026-10-11 05:09:28",
+    "source": "Simplify"
+  },
+  {
     "id": "9771d58e695f9349e2309e88211f5d63",
     "title": "Digital Systems Intern",
     "company": "Ovintiv",
