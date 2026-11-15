@@ -1,5 +1,60 @@
 [
   {
+    "id": "b95e87621b40c84a8cc5875878bbc0f9",
+    "title": "Intern - Embedded Software",
+    "company": "Rivian",
+    "location": "Urbana, IL",
+    "url": "https://careers.rivian.com/jobs/29841?lang=en-us&icims=1",
+    "description": "",
+    "posted_date": "2026-11-15",
+    "scraped_date": "2026-11-15 22:39:44",
+    "source": "Simplify"
+  },
+  {
+    "id": "c1e3bad537b7d7f07f9876f3ca86e277",
+    "title": "Intern - Hardware Engineering",
+    "company": "Extreme Networks",
+    "location": "Salem, NH",
+    "url": "https://jobs.lever.co/extremenetworks/5fb55102-f2f4-43c5-bde8-1cf8c5ad335c/apply",
+    "description": "",
+    "posted_date": "2026-11-15",
+    "scraped_date": "2026-11-15 22:39:44",
+    "source": "Simplify"
+  },
+  {
+    "id": "97e2a2c0b302bf1b024c9f460dd7c0e7",
+    "title": "Digital & Tech Data Visualization Engineer Intern",
+    "company": "Norfolk Southern",
+    "location": "Atlanta, GA",
+    "url": "https://jobs.nscorp.com/job/Atlanta-Digital-&-Tech-Data-Visualization-Engineer-Intern-(PMOService-Management)-Summer-2026-GA-30308/1375904900/?ats=successfactors",
+    "description": "",
+    "posted_date": "2026-11-15",
+    "scraped_date": "2026-11-15 22:39:44",
+    "source": "Simplify"
+  },
+  {
+    "id": "3097455f86776a9034a8fa58cd4dc85a",
+    "title": "R&D Hardware Engineering Intern",
+    "company": "Keysight Technologies",
+    "location": "Austin, TX",
+    "url": "https://jobs.keysight.com/jobs/52096?lang=en-us&icims=1",
+    "description": "",
+    "posted_date": "2026-11-15",
+    "scraped_date": "2026-11-15 22:39:44",
+    "source": "Simplify"
+  },
+  {
+    "id": "2b6c89df31bf5d986ef74ae732be7db3",
+    "title": "Embedded Software Engineering Intern - Controls",
+    "company": "Bloom Energy",
+    "location": "San Jose, CA",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Embedded-Software-Engineering-Intern--Controls-_JR-22020",
+    "description": "",
+    "posted_date": "2026-11-15",
+    "scraped_date": "2026-11-15 22:39:44",
+    "source": "Simplify"
+  },
+  {
     "id": "6a3b43670191b234f1ceb4119c7bcc23",
     "title": "Electronics Hardware Developer Intern/Co-op",
     "company": "Watts Water",
