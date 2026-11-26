@@ -1,5 +1,60 @@
 [
   {
+    "id": "6b7e96a04c2944458452fe9e77eab31c",
+    "title": "Firmware Engineer Co-Op",
+    "company": "Samsara",
+    "location": "SF",
+    "url": "https://www.samsara.com/company/careers/roles/7608911?gh_jid=7608911",
+    "description": "",
+    "posted_date": "2026-11-26",
+    "scraped_date": "2026-11-26 07:45:15",
+    "source": "Simplify"
+  },
+  {
+    "id": "95b95d4a219e96f8e94153e181b5db00",
+    "title": "Firmware Intern",
+    "company": "WindBorne Systems",
+    "location": "San Carlos, CA",
+    "url": "https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843/application",
+    "description": "",
+    "posted_date": "2026-11-26",
+    "scraped_date": "2026-11-26 07:45:15",
+    "source": "Simplify"
+  },
+  {
+    "id": "180322b98bc1ad3a50a5f502cc32304e",
+    "title": "PhD Research Intern AI/ML & Digital Health",
+    "company": "Johnson & Johnson",
+    "location": "London, UK, Paris, France",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/London-United-Kingdom/PhD-Research-Summer-Intern-AI-ML---Digital-Health_R-066814",
+    "description": "",
+    "posted_date": "2026-11-26",
+    "scraped_date": "2026-11-26 07:45:15",
+    "source": "Simplify"
+  },
+  {
+    "id": "0ffd9316b9eb8884d576023e3fb1b8f3",
+    "title": "Firmware Engineer Intern",
+    "company": "NXP Semiconductors",
+    "location": "Chandler, AZ",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Firmware-Engineer-Intern---Summer-2026_R-10062597",
+    "description": "",
+    "posted_date": "2026-11-26",
+    "scraped_date": "2026-11-26 07:45:15",
+    "source": "Simplify"
+  },
+  {
+    "id": "3e09787f181a224b244163d20aaa7c41",
+    "title": "Software Engineer Intern - Embedded Systems",
+    "company": "Roku",
+    "location": "San Jose, CA",
+    "url": "https://www.weareroku.com/jobs/7768005?gh_jid=7768005",
+    "description": "",
+    "posted_date": "2026-11-26",
+    "scraped_date": "2026-11-26 07:45:15",
+    "source": "Simplify"
+  },
+  {
     "id": "c2cb0622a6fe895d87e5942c663eef19",
     "title": "Embedded Software Engineer Intern",
     "company": "Shield AI",
